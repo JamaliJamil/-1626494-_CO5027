@@ -1,12 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="WebApplication2._default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Members.aspx.cs" Inherits="WebApplication2.Members" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
-    Home: My new website
+    Members Area: My new website
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Header1" runat="server">
-    Home: My new website
+    Members Area
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="Header2" runat="server">
-   My page content
+    Members page
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="MainContent" runat="server">
     <p>
@@ -23,6 +23,5 @@ Nunc laoreet viverra diam, at consectetur ante rhoncus at. Mauris pellentesque t
 Sed eget nisi ipsum, a feugiat ante. Mauris a quam erat, ac rhoncus mauris. Nunc laoreet blandit scelerisque. Morbi porttitor porttitor orci in eleifend. Donec consequat hendrerit sem vitae fringilla. Nam vel ipsum quis est luctus vehicula. Maecenas neque augue, adipiscing vel pretium eu, dapibus id odio. Vestibulum libero ligula, lobortis vel scelerisque ut, scelerisque sit amet nisl. Ut quis placerat sapien. Mauris fringilla ornare laoreet. Etiam molestie tincidunt ante, non commodo leo rutrum eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in purus ac nunc tristique laoreet. Curabitur ultricies convallis velit, vitae ornare ipsum gravida nec. Aliquam ut dictum massa. </p>
 
 </p>
-
 
 </asp:Content>
